@@ -15,8 +15,6 @@
 - 🔧 &nbsp; Git |
 
 ###Set up
-Initially after having a copy of repo in your system,-
-
 1 cd into Project directory
 2 Run npm install
 3 cd into client directory
