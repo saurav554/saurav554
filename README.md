@@ -10,9 +10,20 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JavaScript | ES6 
-- 🌐 &nbsp; HTML | CSS | ReactJS |Redux | Node.js | Express.js |Material ui
+- 🌐 &nbsp; HTML | CSS | ReactJS |Redux | Node.js | Express.js | Material ui
 - 🛢 &nbsp; MongoDB |
 - 🔧 &nbsp; Git |
+
+###Set up
+Initially after having a copy of repo in your system,-
+
+1 cd into Project directory
+2 Run npm install
+3 cd into client directory
+4 Now, again run npm install
+As now ,both the dependencies for React js as front-end and Express js as back-end Now Start the server by
+
+5 npm run dev
 
 ### Connect with me: 
 
